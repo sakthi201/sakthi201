@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-As a proud graduate from Kalasalingam University with a Bachelor's in Electronics and Communication Engineering, I currently enhance Bentek Automation's digital landscape as a Software Engineer. My core competencies revolve around OutSystems, Automation Testing, Java, and crafting intricate front-end solutions using React Js.
+As a proud graduate from Kalasalingam University with a Bachelor's in Electronics and Communication Engineering, I currently enhance Bentek Automation's digital landscape as a Software Engineer. My core competencies revolve around Nodejs, Laravel, FTPC, OutSystems, API Testing, Automation Testing, Java, postgresql and crafting intricate front-end solutions using React Js.
 
 My tenure at Atos honed my skills in building reusable components, with a focus on user and role management interfaces. Our team's collaborative efforts have resulted in efficient, responsive designs that align with our organizational goals. I bring a diverse perspective to our projects, leveraging my certifications in Azure, Automation Testing, and OutSystems to drive innovation and excellence.
 
