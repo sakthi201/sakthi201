@@ -2,16 +2,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70" alt="hi" />
 </p>
 
-<h1 align="center">Hi there, I'm Sakthi! 👋</h1>
+<h1 align="center">Hi there, I'm Sakthi Anand! 👋</h1>
 <p align="center">
-  <b>Frontend Developer | Lifelong Learner | Coffee Enthusiast</b> <br/>
+  <b>Backend Developer | Automation and API Tester | Bentek Automation </b> <br/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Frontend Developer who loves crafting beautiful web interfaces and solving real-world problems with code. I thrive on curiosity, continuous learning, and sharing knowledge with the community. Whether it's writing clean code, experimenting with new frameworks, or debugging (sometimes with coffee!), I'm always up for a challenge.
+As a proud graduate from Kalasalingam University with a Bachelor's in Electronics and Communication Engineering, I currently enhance Bentek Automation's digital landscape as a Software Engineer. My core competencies revolve around OutSystems, Automation Testing, Java, and crafting intricate front-end solutions using React Js.
+
+My tenure at Atos honed my skills in building reusable components, with a focus on user and role management interfaces. Our team's collaborative efforts have resulted in efficient, responsive designs that align with our organizational goals. I bring a diverse perspective to our projects, leveraging my certifications in Azure, Automation Testing, and OutSystems to drive innovation and excellence.
 
 ---
 
